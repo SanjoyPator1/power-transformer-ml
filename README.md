@@ -1,6 +1,4 @@
-# Power Transformer ML
-
-## Power Transformer Health Index Analysis
+# Power Transformer Health Index Analysis
 This project involves analyzing and predicting the health index of power transformers using various machine learning models. The dataset used for this analysis includes key features like gas concentrations, dielectric rigidity, and health-related factors, which are essential in evaluating transformer health.
 
 ## Project Structure
