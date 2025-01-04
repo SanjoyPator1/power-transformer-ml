@@ -12,19 +12,19 @@ This project applies machine learning techniques to analyze and predict the perf
 
 1. Clone the repository:
 
-   ```bash
-   git clone git@github.com-sanjoypator1:SanjoyPator1/power-transformer-ml.git
+```bash
+git clone git@github.com-sanjoypator1:SanjoyPator1/power-transformer-ml.git
 ```
 
 2. Create and activate the `power-trans` Conda environment
 ```bash
-	conda create -n power-trans python=3.8
+conda create -n power-trans python=3.8
 conda activate power-trans
 ```
 
 3. Install required dependencies
 ```bash
-	pip install -r requirements.txt	
+pip install -r requirements.txt	
 ```
 
 ## Usage
